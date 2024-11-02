@@ -1,0 +1,12 @@
+C:\Users\lucas\Documents\SharpDevelop Projects\TP_Integrador\proyecto\obj\Debug\proyecto.csprojResolveAssemblyReference.cache
+C:\Users\lucas\Documents\SharpDevelop Projects\TP_Integrador\proyecto\bin\Debug\proyecto.exe.config
+C:\Users\lucas\Documents\SharpDevelop Projects\TP_Integrador\proyecto\bin\Debug\proyecto.exe
+C:\Users\lucas\Documents\SharpDevelop Projects\TP_Integrador\proyecto\bin\Debug\proyecto.pdb
+C:\Users\lucas\Documents\SharpDevelop Projects\TP_Integrador\proyecto\obj\Debug\proyecto.exe
+C:\Users\lucas\Documents\SharpDevelop Projects\TP_Integrador\proyecto\obj\Debug\proyecto.pdb
+C:\Users\rolon\OneDrive\Documentos\dev\algoritmos\Tp_integrador\TP_Integrador\proyecto\obj\Debug\proyecto.csprojResolveAssemblyReference.cache
+C:\Users\rolon\OneDrive\Documentos\dev\algoritmos\Tp_integrador\TP_Integrador\proyecto\obj\Debug\proyecto.exe
+C:\Users\rolon\OneDrive\Documentos\dev\algoritmos\Tp_integrador\TP_Integrador\proyecto\obj\Debug\proyecto.pdb
+C:\Users\rolon\OneDrive\Documentos\dev\algoritmos\Tp_integrador\TP_Integrador\proyecto\bin\Debug\proyecto.exe.config
+C:\Users\rolon\OneDrive\Documentos\dev\algoritmos\Tp_integrador\TP_Integrador\proyecto\bin\Debug\proyecto.exe
+C:\Users\rolon\OneDrive\Documentos\dev\algoritmos\Tp_integrador\TP_Integrador\proyecto\bin\Debug\proyecto.pdb
